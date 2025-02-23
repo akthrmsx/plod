@@ -2,8 +2,6 @@
 
 This is PL/O' compiler written in Rust.
 
-https://www.ohmsha.co.jp/book/9784274221163/
-
 ## BNF
 
 ```
@@ -49,3 +47,7 @@ https://www.ohmsha.co.jp/book/9784274221163/
     <ident> "(" [ <expression> { "," <expression> } ] ")" |
     "(" <expression> ")"
 ```
+
+## References
+
+* [コンパイラ - 作りながら学ぶ](https://www.ohmsha.co.jp/book/9784274221163/)

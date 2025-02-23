@@ -1,5 +1,7 @@
 # PL/O'
 
+This is PL/O' compiler written in Rust.
+
 https://www.ohmsha.co.jp/book/9784274221163/
 
 ## BNF

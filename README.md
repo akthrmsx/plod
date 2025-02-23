@@ -2,7 +2,7 @@
 
 https://www.ohmsha.co.jp/book/9784274221163/
 
-## 文法
+## BNF
 
 ```
 <program> ::=

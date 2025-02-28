@@ -1,6 +1,6 @@
 # PL/O'
 
-This is PL/O' compiler written in Rust.
+This is a PL/O' compiler written in Rust.
 
 ## BNF
 
